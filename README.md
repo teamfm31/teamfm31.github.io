@@ -14,7 +14,7 @@ Pass-Sec provides a Unique Innovative Way to move around with no Tension to carr
 
 ## Everything About Pass-Sec : Pass-Sec Wiki 📚
 
-Pass Sec Wiki : [Take Me to Wiki :100:] (https://github.com/teamfm31/teamfm31.github.io/wiki)
+**Pass Sec Wiki** : [Take Me to Wiki](https://github.com/teamfm31/teamfm31.github.io/wiki):100:
 
 **Complete Flow Chart** : [Take Me Flow Chart :smile: ](https://github.com/teamfm31/teamfm31.github.io/wiki/Flowchart)
 
