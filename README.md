@@ -2,7 +2,7 @@
 ### A new way to move around ! 🙌 
 
 Hola Team 👋 
-Pass-Sec provides a Unique Innovative Way to move around with no Tension to carry your Important Documents !
+Pass-Sec provides a Unique Innovative Way to move around with no Tension to carry your Important Documents!
 
 ### Major Problems Pass-Sec Solves
 
