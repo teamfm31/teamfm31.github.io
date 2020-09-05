@@ -1,4 +1,4 @@
-var firebaseConfig = {
+var firebaseConfig ={
   apiKey: "AIzaSyD_6viQttAfB6n9QPqzWiwWaU5TR9UniXQ",
   authDomain: "pass-sec.firebaseapp.com",
   databaseURL: "https://pass-sec.firebaseio.com",
