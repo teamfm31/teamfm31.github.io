@@ -5,7 +5,7 @@
   --accent-color: #11151b;
 }
 
-@media (min-width: 576px) {
+@media(min-width: 576px) {
   .AppModal-form {
     display: flex;
     flex-direction: column;
